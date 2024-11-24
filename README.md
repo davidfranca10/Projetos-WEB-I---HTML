@@ -32,8 +32,71 @@ Um formulário para cadastro de usuários, coletando dados como nome, e-mail, se
 
 ---
 
-## 🚀 Como acessar os projetos?
+## Para executar os projetos, siga o seguinte passo a passo!!
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/projetos-web1.git
+### Tutorial: Como Baixar o Visual Studio Code (VSCode) e Executar um Código HTML
+
+O Visual Studio Code é um editor de código poderoso e leve, ideal para desenvolver projetos em HTML, CSS, JavaScript e outras linguagens.
+
+---
+
+### Passo 1: Baixar o Visual Studio Code
+
+1. **Acesse o site oficial do VSCode**:
+   - Abra o navegador e vá para o site oficial do Visual Studio Code: [https://code.visualstudio.com](https://code.visualstudio.com).
+
+2. **Baixe a versão adequada para o seu sistema operacional**:
+   - Clique no botão de download correspondente ao seu sistema operacional (Windows, macOS ou Linux).
+
+3. **Instale o VSCode**:
+   - Após o download, abra o arquivo instalador.
+   - Siga as instruções do assistente de instalação:
+     - Aceite os termos de uso.
+     - Escolha o local de instalação.
+     - (Opcional) Marque a opção para adicionar o VSCode ao menu de contexto e ao PATH (recomendado).
+
+4. **Abra o VSCode**:
+   - Após a instalação, inicie o VSCode clicando no ícone no menu ou área de trabalho.
+
+---
+
+### Passo 2: Criar um Arquivo HTML
+
+1. **Crie uma pasta para o projeto**:
+   - Escolha um local no seu computador (por exemplo, na área de trabalho) e crie uma pasta chamada `meu-projeto-html`.
+
+2. **Abra a pasta no VSCode**:
+   - No VSCode, clique em **File (Arquivo)** > **Open Folder (Abrir Pasta)**.
+   - Selecione a pasta criada e clique em **Open (Abrir)**.
+
+3. **Crie um novo arquivo HTML**:
+   - No painel lateral esquerdo, clique com o botão direito na pasta aberta e selecione **New File (Novo Arquivo)**.
+   - Nomeie o arquivo como `index.html`.
+
+4. **Escreva o código HTML**:
+   - Abra o arquivo `index.html` e cole o código do projeto que deseja executar:
+
+---
+
+### Passo 3: Executar o Código HTML
+
+1. **Instale a extensão Live Server**:
+   - No VSCode, clique no ícone de **Extensões** (um quadrado com quatro peças) no lado esquerdo.
+   - Pesquise por **Live Server**.
+   - Clique em **Install (Instalar)**.
+
+2. **Execute o Live Server**:
+   - Clique com o botão direito no arquivo `index.html`.
+   - Selecione **Open with Live Server (Abrir com Live Server)**.
+
+3. **Veja o resultado no navegador**:
+   - O Live Server abrirá automaticamente o arquivo no navegador padrão.
+   - Você verá o texto "Olá, Mundo!" exibido na página.
+
+---
+
+### Dica Adicional
+
+- **Atualizações em tempo real**: Quando você fizer alterações no arquivo `index.html` e salvá-lo (Ctrl + S), o navegador será atualizado automaticamente pelo Live Server.
+- **Personalize seu VSCode**: Explore outras extensões como **Prettier** para formatação automática e **HTML Snippets** para atalhos de código.
+
